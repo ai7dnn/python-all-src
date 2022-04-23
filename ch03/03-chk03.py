@@ -1,0 +1,5 @@
+print('python'.replace('p', 'P'))
+print('#'.join('C++'))
+print('python'.find('th'))
+print('python'.index('py'))
+print('정수,실수,문자열,논리'.split(','))

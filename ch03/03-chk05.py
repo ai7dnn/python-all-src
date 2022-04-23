@@ -1,0 +1,5 @@
+print('python' < 'Python')
+print(50 <= 50 < 60)
+print(3 < 5 and 10 < 20)
+print(3 >= 5 or not (10 < 20))
+print('셋' not in '리스트 튜플 딕셔너리 셋')

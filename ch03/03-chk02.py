@@ -1,0 +1,5 @@
+print('Hello_python'[5])
+print('Hello_python'[:5])
+print('Hello_python'[6:])
+print('Hello_python'[::2])
+print('Hello_python'[:len('Hello_python')])

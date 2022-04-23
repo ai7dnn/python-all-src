@@ -1,0 +1,5 @@
+print(0b100 & 0b011)
+print(5 | 2)
+print(~5)
+print(0b1100 >> 2)
+print(10 << 2)

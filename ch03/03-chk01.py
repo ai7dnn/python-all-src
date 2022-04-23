@@ -1,0 +1,5 @@
+print(ord('D') - ord("A"))
+print(min('java'), max('java'))
+print(len('python') - len('java'))
+print(len('ab\td'))
+print('abc\bd')
